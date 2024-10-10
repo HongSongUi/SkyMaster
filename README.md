@@ -23,8 +23,13 @@
 - 메뉴 이동, 선택 : 마우스
 
 ## Screenshot
-<img src ="https://github.com/user-attachments/assets/7a5bd3bf-66ef-4054-b394-caac730b6577" width="500" height="300"/>
-<img src ="https://github.com/user-attachments/assets/c548913b-83e2-47bc-84d4-72a39e3f1702" width="500" height="300"/>
-<img src ="https://github.com/user-attachments/assets/5d7f2ea8-6ae9-47fa-8a3e-dbfd0ada98c6" width="500" height="300"/>
-<img src ="https://github.com/user-attachments/assets/1bfcec76-9232-46d8-b3f9-93b499bd1cc5" width="500" height="300"/>
-<img src ="https://github.com/user-attachments/assets/1c7354cc-00db-4315-baf1-43723f4184f6" width="500" height="300"/>
+
+|  |   |
+|---|---|
+|메인 화면|Intro 화면|
+|<img width="450" alt="image" src="https://github.com/user-attachments/assets/7a5bd3bf-66ef-4054-b394-caac730b6577">|<img width="450" alt="image" src="https://github.com/user-attachments/assets/c548913b-83e2-47bc-84d4-72a39e3f1702">|
+|InGame 화면|Outro 화면|
+|<img width="450" alt="image" src="https://github.com/user-attachments/assets/5d7f2ea8-6ae9-47fa-8a3e-dbfd0ada98c6">|<img width="450" alt="image" src="https://github.com/user-attachments/assets/1bfcec76-9232-46d8-b3f9-93b499bd1cc5">|
+|결과 화면|  |
+|<img width="450" alt="image" src="https://github.com/user-attachments/assets/1c7354cc-00db-4315-baf1-43723f4184f6"> ||
+
