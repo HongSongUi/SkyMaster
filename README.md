@@ -1,8 +1,7 @@
 # SkyMaster
 
-<img src ="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=unreal engine&logoColor=white">
 
-[日本の方はこちらへ](./README.JP.md)
+[Japanese](./README.JP.md)
 
 ## Game Overview
 이 게임은 **언리얼 엔진**을 사용하여 **블루프린트만**으로 제작된 전투 게임입니다. 플레이어는 파일럿이 되어 적의 미사일을 피하고, 적을 격퇴하며 전투를 수행합니다. 목표는 임무를 완수하고 무사히 항공모함으로 귀환하는 것입니다.
